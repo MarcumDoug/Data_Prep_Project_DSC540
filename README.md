@@ -1,5 +1,5 @@
 # Toronto Crime Relationships
-## Term Project for DSC 540 - Data Preparation
+Term Project for DSC 540 - Data Preparation
 
 After multiple attempts to find this much data about Indianapolis, then Chicago, then just about every other major city in the United States, I decided to venture outside of our boarders to our neighbors up North. There, in the open data sources of Canada, I discovered what I had been searching for this entire time. Posted below are links to the three data sets I will be using for the term project, a description of each, the relationship between each, and what will need to be accomplished to complete the five milestones. 
 

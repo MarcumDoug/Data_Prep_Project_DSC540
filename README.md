@@ -22,6 +22,3 @@ With these three datasets, there are 140 variables (each neighborhood) and appro
 
 ## Relationships  
 The common relationship running through all three data sets is the neighborhood id (name). This one to many relationship occurs on with each. With this common relationship, there is belief that patterns will emerge across each neighborhood pertaining to crime and different demographics.   
-
-## Steps to Accomplish Five Milestones   
-In order to accomplish all five milestones, the data is going to need to be scrubbed and analyzed. The formatting does not align between the three sources, so attention will need to be made in an effort to not cause spurious relationships. Additionally, from a quick review of the neighborhood naming across the three, there appears to be a very slight inconsistency in the naming of each. While only less than five, this connection is vital and will certainly need to be resolved. Looking ahead to the fifth milestone, the visualization of this data is something I am looking forward to a great deal. The mix of statistics and geography should allow for several striking charts and plots. Overall, the project is going to take a great deal of continued focus and new skills to be completed. 
